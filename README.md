@@ -1,3 +1,6 @@
+Version personalizada de Apache Spark en contenedores, de: https://github.com/mvillarrealb/docker-spark-cluster
+Aclaracion: se modifico el docker-compose.yml, start-master.sh y start-worker.sh
+
 # Spark Cluster with Docker & docker-compose
 
 # General
